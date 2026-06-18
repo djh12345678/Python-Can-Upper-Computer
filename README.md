@@ -24,6 +24,14 @@
 | 5 | **Capture & Replay** | Record traffic to ASC/BLF/CSV; replay at adjustable speed with waveform rendering |
 | 6 | **Frame Parser** | Multi-DBC batch decode of CAN log files (ASC/BLF/CSV/TRC/MF4); click any row to inspect all signal values |
 
+### Screenshots
+
+<img src="docs/images/screenshot_monitor.png" width="800" alt="总线监控">
+<img src="docs/images/screenshot_waveform.png" width="800" alt="波形分析">
+<img src="docs/images/screenshot_send.png" width="800" alt="报文发送">
+<img src="docs/images/screenshot_capture.png" width="800" alt="捕获 & 回放">
+<img src="docs/images/screenshot_parse.png" width="800" alt="报文解析">
+
 ### Installation
 
 **Using pip:**
@@ -269,6 +277,14 @@ Python-Can-Upper-Computer/
 | 4 | **报文发送** | DBC 构造（整个 DBC 多消息批量发送、信号值持久化）+ 原始 Hex 发送（结构化字段双向同步）；均支持周期发送 |
 | 5 | **捕获与回放** | 录制为 ASC/BLF/CSV；以可调倍速（0.25×–8×）回放，同步绘制波形 |
 | 6 | **报文解析** | 多 DBC 导入 + 多种 CAN 日志文件（ASC/BLF/CSV/TRC/MF4）批量解析，支持多路 CAN 通道 |
+
+### 软件截图
+
+<img src="docs/images/screenshot_monitor.png" width="800" alt="总线监控">
+<img src="docs/images/screenshot_waveform.png" width="800" alt="波形分析">
+<img src="docs/images/screenshot_send.png" width="800" alt="报文发送">
+<img src="docs/images/screenshot_capture.png" width="800" alt="捕获 & 回放">
+<img src="docs/images/screenshot_parse.png" width="800" alt="报文解析">
 
 ### 运行
 
