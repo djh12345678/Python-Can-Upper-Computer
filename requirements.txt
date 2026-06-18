@@ -1,0 +1,8 @@
+PyQt5>=5.15.0
+pyqtgraph>=0.12.0
+numpy>=1.19.0
+pandas>=1.2.0
+python-can>=4.0.0
+cantools>=37.0.0
+pyserial>=3.5
+pyinstaller>=5.0.0
